@@ -528,5 +528,35 @@
     "manbat": {
         "name": "manbat",
         "blog": "https://github.com/manbat"
+    },
+    "jmrfox": {
+        "name": "Jordan M. R. Fox, PhD",
+        "email": "jordanmrfox@gmail.com",
+        "bio": "Computational neuroscientist. Reformed theoretical nuclear physicist. I model complex systems with simulation and statistics.",
+        "blog": "https://jmrfox.github.io/",
+        "orcid": "0000-0002-1363-9845",
+        "affiliation": "Albert Einstein College of Medicine"
+    },
+    "jsubida": {
+        "name": "J.C.",
+        "blog": null
+    },
+    "pengyin-shan": {
+        "name": "Pengyin Shan",
+        "bio": "A Full Stack Developer",
+        "orcid": "0009-0009-6309-380X",
+        "affiliation": "University of Illinois Urbana-Champaign",
+        "blog": "https://github.com/pengyin-shan"
+    },
+    "ElpyDE": {
+        "name": "Roland Ferger",
+        "bio": "Neuroscientist | Boy Scout",
+        "orcid": "0000-0003-4994-3846",
+        "affiliation": "Albert Einstein College of Medicine",
+        "blog": "https://github.com/ElpyDE"
+    },
+    "Shubhamjha-sj": {
+        "name": "Shubhamjha-sj",
+        "blog": "https://github.com/Shubhamjha-sj"
     }
 }
