@@ -36,7 +36,7 @@ Reach out to the Neuro-RSE coordinators Jordan Fox or Steph Prince on the [US-RS
 - [Steph Prince](https://github.com/stephprince), data engineer
 
 ## Former group coordinators
-- [Billy Broderick](wfbroderick.com/), Associate Research Scientist, Software in [NeuroRSE group](https://neurorse.flatironinstitute.org/), [Flatiron Institute's Center For Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) 
+- [Billy Broderick](https://wfbroderick.com/), Associate Research Scientist, Software in [NeuroRSE group](https://neurorse.flatironinstitute.org/), [Flatiron Institute's Center For Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) 
 - [David Nicholson](https://nicholdav.info/), lead developer of the [VocalPy software community](http://www.vocalpy.org/)
 
 # Active members
@@ -78,7 +78,7 @@ Active members attend our regular meetings at least once a quarter (once every 3
 
 - [comp-neuro mailing list](https://www.cnsorg.org/comp-neuro-mailing-list)
 - [cvnet mailing list](https://info.cvnet.org) (skews academic)
-- [visionlist mailing list](https://web.archive.org/web/20260310085452/https://visionscience.com/mailman/listinfo/visionlist_visionscience.com) (skews academic)
+- [visionlist mailing list](https://visionscience.com/mailman/listinfo/visionlist_visionscience.com) (skews academic)
 - [connectionists mailing list](https://mailman.srv.cs.cmu.edu/mailman/listinfo/connectionists) (skews academic)
 
 ## Google groups / mailing lists / forums
@@ -92,7 +92,7 @@ Active members attend our regular meetings at least once a quarter (once every 3
 - [BRAIN Initiative Meeting](https://braininitiative.nih.gov/news-events/events/10th-annual-brain-initiative-conference)
 - [CNS (Cognitive Computational Neuroscience)](https://ccneuro.org)
 - [COSYNE (Computational and Systems Neuroscience)](https://www.cosyne.org/) (computational and systems neuroscience)
-- [FENS (Federation of European Neuroscience Societies)](fens.org/) (Federation of European Neuroscience Societies, largest European neuroscience conference)
+- [FENS (Federation of European Neuroscience Societies)](https://fens.org/) (Federation of European Neuroscience Societies, largest European neuroscience conference)
 - [INCF Neuroinformatics Assembly](https://www.incf.org/activities/incf-assembly)
 - [OHBM (Organization for Human Brain Mapping)](https://humanbrainmapping.org/) (Organization for Human Brain Mapping)
 - [SciPy (Scientific Python)](https://conference.scipy.org/)
