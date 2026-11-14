@@ -46,7 +46,7 @@ Active members attend our regular meetings at least once a quarter (once every 3
 
 - [Lezlie España](https://www.linkedin.com/in/lezlieespana), Programmer Analyst in Brain Injury Research at the Medical College of Wisconsin
 - [Alessandro Felder](https://github.com/alessandrofelder), Senior Research Software Engineer at the [Sainsbury Wellcome Centre's Neuroinformatics Unit](https://neuroinformatics.dev/), technical lead of the [BrainGlobe Initiative](https://brainglobe.info/)
-- [Yaroslav O. Halchenko](https://github.com/yarikoptic), Research Associate Professor at the [Dartmouth College](https://dartmouth.edu), leading the [Center for Open Neuroscience](https://centerforopenneuroscience.org) at the [Department of Psychological and Brain Sciences](https://pbs.dartmouth.edu) leading projects such as [NeuroDebian](https://neuro.debian.net/), [DataLad](https://datalad.org), [DANDI](https://dandiarchive.org) and others
+- [Yaroslav O. Halchenko](https://github.com/yarikoptic), Research Associate Professor at the [Dartmouth College](https://home.dartmouth.edu), leading the [Center for Open Neuroscience](https://centerforopenneuroscience.org) at the [Department of Psychological and Brain Sciences](https://pbs.dartmouth.edu) leading projects such as [NeuroDebian](https://neuro.debian.net/), [DataLad](https://datalad.org), [DANDI](https://dandiarchive.org) and others
 - [Ryan Ly](https://www.linkedin.com/in/ryanly), scientific data engineer at Lawrence Berkeley National Lab
 - [Daniel McCloy](https://dan.mccloy.info), Research Scientist at Institute for Learning & Brain Sciences, University of Washington
 - [Tab Memmott](https://www.linkedin.com/in/tab-memmott/) (he/him), Lead Research Software Engineer with the [Consortium for Accessible Multimodal Brain-Body Interfaces](https://www.cambi.tech/)
@@ -106,7 +106,7 @@ Active members attend our regular meetings at least once a quarter (once every 3
 - Cold Spring Harbor Laboratory [summer schools](https://meetings.cshl.edu/courseshome.aspx), especially [Computational Neuroscience: Vision](https://meetings.cshl.edu/courses.aspx?course=C-VISI&year=24) (every other year)
 - [NeuroDataReHack](https://nwb.org/events/hck24-2025-janelia-ndrh/)
 - [Neurohackademy](https://neurohackademy.org/) (neuroimaging-focused)
-- [Neuromatch Academy](https://academy.neuromatch.io/) (online)
+- [Neuromatch Courses](https://neuromatch.io/courses/) (online)
 - [NWB Events (Workshops, Hackathons, Tutorials)](https://nwb.org/events/)
 - [ODIN Symposium](https://odin.mit.edu/)
 - [OHBM Brainhack](https://ohbm.github.io/hackathon2025/)
